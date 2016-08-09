@@ -1,0 +1,15 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": ["airbnb-base", "plugin:lodash/recommended"],
+  "plugins": ["lodash"],
+  "rules": {
+    "func-names": 2,
+    "global-require": 0,
+    "max-len": [2, { "code": 120 }],
+    "no-console": 0,
+    "no-unused-expressions": 0,
+    "no-unused-vars": 1
+  }
+}
