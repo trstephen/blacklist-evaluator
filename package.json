@@ -15,6 +15,7 @@
     "eslint-plugin-lodash": "^1.10.1",
     "lodash": "^4.14.2",
     "profanity-analysis": "0.0.5",
+    "profanity-matcher": "^1.0.1",
     "swearjar": "^0.1.3"
   }
 }
